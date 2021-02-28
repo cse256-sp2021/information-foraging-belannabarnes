@@ -20,9 +20,9 @@ header {
     top: 40px;
     width: 100%
 }
-/* .sticky + .content {
+.sticky + .content {
     padding-top: 102px;
-} */
+}
 
 .container {
     width: 92%;
